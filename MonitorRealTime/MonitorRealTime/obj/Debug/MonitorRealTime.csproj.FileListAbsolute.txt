@@ -1,0 +1,38 @@
+c:\users\eldanevieira\documents\visual studio 2017\Projects\MonitorRealTime\MonitorRealTime\bin\Debug\MonitorRealTime.exe.config
+c:\users\eldanevieira\documents\visual studio 2017\Projects\MonitorRealTime\MonitorRealTime\bin\Debug\MonitorRealTime.exe
+c:\users\eldanevieira\documents\visual studio 2017\Projects\MonitorRealTime\MonitorRealTime\bin\Debug\MonitorRealTime.pdb
+c:\users\eldanevieira\documents\visual studio 2017\Projects\MonitorRealTime\MonitorRealTime\bin\Debug\MetroFramework.dll
+c:\users\eldanevieira\documents\visual studio 2017\Projects\MonitorRealTime\MonitorRealTime\bin\Debug\MetroFramework.Fonts.dll
+c:\users\eldanevieira\documents\visual studio 2017\Projects\MonitorRealTime\MonitorRealTime\obj\Debug\MonitorRealTime.csprojResolveAssemblyReference.cache
+c:\users\eldanevieira\documents\visual studio 2017\Projects\MonitorRealTime\MonitorRealTime\obj\Debug\MonitorRealTime.Form1.resources
+c:\users\eldanevieira\documents\visual studio 2017\Projects\MonitorRealTime\MonitorRealTime\obj\Debug\MonitorRealTime.Properties.Resources.resources
+c:\users\eldanevieira\documents\visual studio 2017\Projects\MonitorRealTime\MonitorRealTime\obj\Debug\MonitorRealTime.csproj.GenerateResource.Cache
+c:\users\eldanevieira\documents\visual studio 2017\Projects\MonitorRealTime\MonitorRealTime\obj\Debug\MonitorRealTime.exe
+c:\users\eldanevieira\documents\visual studio 2017\Projects\MonitorRealTime\MonitorRealTime\obj\Debug\MonitorRealTime.pdb
+D:\Arquivos diversos\doc\Projectsvs2017\Projects\MonitorRealTime\MonitorRealTime\bin\Debug\MonitorRealTime.exe.config
+D:\Arquivos diversos\doc\Projectsvs2017\Projects\MonitorRealTime\MonitorRealTime\bin\Debug\MonitorRealTime.exe
+D:\Arquivos diversos\doc\Projectsvs2017\Projects\MonitorRealTime\MonitorRealTime\bin\Debug\MonitorRealTime.pdb
+D:\Arquivos diversos\doc\Projectsvs2017\Projects\MonitorRealTime\MonitorRealTime\bin\Debug\MetroFramework.dll
+D:\Arquivos diversos\doc\Projectsvs2017\Projects\MonitorRealTime\MonitorRealTime\bin\Debug\MetroFramework.Fonts.dll
+D:\Arquivos diversos\doc\Projectsvs2017\Projects\MonitorRealTime\MonitorRealTime\obj\Debug\MonitorRealTime.csprojAssemblyReference.cache
+D:\Arquivos diversos\doc\Projectsvs2017\Projects\MonitorRealTime\MonitorRealTime\obj\Debug\MonitorRealTime.Form1.resources
+D:\Arquivos diversos\doc\Projectsvs2017\Projects\MonitorRealTime\MonitorRealTime\obj\Debug\MonitorRealTime.Properties.Resources.resources
+D:\Arquivos diversos\doc\Projectsvs2017\Projects\MonitorRealTime\MonitorRealTime\obj\Debug\MonitorRealTime.csproj.GenerateResource.cache
+D:\Arquivos diversos\doc\Projectsvs2017\Projects\MonitorRealTime\MonitorRealTime\obj\Debug\MonitorRealTime.csproj.CoreCompileInputs.cache
+D:\Arquivos diversos\doc\Projectsvs2017\Projects\MonitorRealTime\MonitorRealTime\obj\Debug\MonitorRealTime.csproj.CopyComplete
+D:\Arquivos diversos\doc\Projectsvs2017\Projects\MonitorRealTime\MonitorRealTime\obj\Debug\MonitorRealTime.exe
+D:\Arquivos diversos\doc\Projectsvs2017\Projects\MonitorRealTime\MonitorRealTime\obj\Debug\MonitorRealTime.pdb
+D:\Visual Studio Projects\Projectsvs2017\Projects\MonitorRealTime\MonitorRealTime\bin\Debug\MonitorRealTime.exe.config
+D:\Visual Studio Projects\Projectsvs2017\Projects\MonitorRealTime\MonitorRealTime\bin\Debug\MonitorRealTime.exe
+D:\Visual Studio Projects\Projectsvs2017\Projects\MonitorRealTime\MonitorRealTime\bin\Debug\MonitorRealTime.pdb
+D:\Visual Studio Projects\Projectsvs2017\Projects\MonitorRealTime\MonitorRealTime\bin\Debug\MetroFramework.dll
+D:\Visual Studio Projects\Projectsvs2017\Projects\MonitorRealTime\MonitorRealTime\bin\Debug\MetroFramework.Fonts.dll
+D:\Visual Studio Projects\Projectsvs2017\Projects\MonitorRealTime\MonitorRealTime\obj\Debug\MonitorRealTime.Form1.resources
+D:\Visual Studio Projects\Projectsvs2017\Projects\MonitorRealTime\MonitorRealTime\obj\Debug\MonitorRealTime.Properties.Resources.resources
+D:\Visual Studio Projects\Projectsvs2017\Projects\MonitorRealTime\MonitorRealTime\obj\Debug\MonitorRealTime.csproj.GenerateResource.cache
+D:\Visual Studio Projects\Projectsvs2017\Projects\MonitorRealTime\MonitorRealTime\obj\Debug\MonitorRealTime.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Projectsvs2017\Projects\MonitorRealTime\MonitorRealTime\obj\Debug\MonitorRealTime.csproj.CopyComplete
+D:\Visual Studio Projects\Projectsvs2017\Projects\MonitorRealTime\MonitorRealTime\obj\Debug\MonitorRealTime.exe
+D:\Visual Studio Projects\Projectsvs2017\Projects\MonitorRealTime\MonitorRealTime\obj\Debug\MonitorRealTime.pdb
+D:\Visual Studio Projects\Projectsvs2017\Projects\MonitorRealTime\MonitorRealTime\obj\Debug\MonitorRealTime.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\Projectsvs2017\Projects\MonitorRealTime\MonitorRealTime\obj\Debug\MonitorRealTime.csproj.SuggestedBindingRedirects.cache
